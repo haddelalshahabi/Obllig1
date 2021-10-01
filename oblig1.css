@@ -1,0 +1,64 @@
+#text1 {
+    color: blueviolet;
+}
+.bilde{
+    margin: 0px;
+}
+
+.npara{
+    margin-bottom: 40px;
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    width: 70%;
+    float: left;
+}
+
+h2{
+    color: rgba(161, 10, 10, 0.986);
+    font-size: 20px;
+}
+h3{
+    color:blueviolet
+}
+h4{
+    color: blueviolet;
+}
+#a{
+    color: blueviolet;
+    padding-top: 15px;
+    float: right;
+}
+
+#m{
+display: inline-block;
+padding-right: 25px;
+}
+dl{
+font-size: 20px;
+font-family: Arial, Helvetica, sans-serif;
+}
+#sideBar{
+font-size: 20px;
+font-family: Arial, Helvetica, sans-serif;
+float: right;
+width: 26%;
+
+}
+
+ol{
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+#name{
+    
+    margin-bottom: 0px;
+    padding-bottom: 0px;
+}
+ul{
+    padding-top: 0px;
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+#about{
+    float: right;
+}
